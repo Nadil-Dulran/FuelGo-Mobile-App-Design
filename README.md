@@ -19,6 +19,8 @@ and customer convenience.
 
 ## 📎 High-Fidelity Prototype
 
-[View the Figma Prototype](#) *(https://www.figma.com/design/XR4TDUN040rR5c7cgVoy4v/FuelGo?node-id=1-2)*  
+[View the High-Fidelity Prototype](#) 
+*(https://www.figma.com/design/XR4TDUN040rR5c7cgVoy4v/FuelGo?node-id=1-2)*  
 
-[Direct access to Prototype](#) *(https://www.figma.com/proto/XR4TDUN040rR5c7cgVoy4v/FuelGo?page-id=1%3A2&node-id=38-75&p=f&t=B7pBWDQqUXj8WhV0-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=38%3A75)*  
+[Direct access to Figma Prototype](#) 
+*(https://www.figma.com/proto/XR4TDUN040rR5c7cgVoy4v/FuelGo?page-id=1%3A2&node-id=38-75&p=f&t=B7pBWDQqUXj8WhV0-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=38%3A75)*  
